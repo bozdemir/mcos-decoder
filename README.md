@@ -1,6 +1,7 @@
 # mcos-decoder
 
 [![PyPI](https://img.shields.io/pypi/v/mcos-decoder.svg)](https://pypi.org/project/mcos-decoder/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19728531.svg)](https://doi.org/10.5281/zenodo.19728531)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Decode MATLAB MCOS objects (Computer Vision Toolbox `groundTruth`,
@@ -127,14 +128,15 @@ If this package supports your research, please cite:
 
 ```bibtex
 @software{ozdemir2026mcos,
-  title  = {mcos-decoder: A Python decoder for MATLAB MCOS objects},
-  author = {Ozdemir, Burak},
-  year   = {2026},
-  url    = {https://github.com/bozdemir/mcos-decoder}
+  author    = {Ozdemir, Burak},
+  title     = {mcos-decoder: A Pure-Python Reader for MATLAB Computer
+               Vision Toolbox groundTruth Objects},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19728531},
+  url       = {https://github.com/bozdemir/mcos-decoder}
 }
 ```
-
-A short companion arXiv preprint is forthcoming.
 
 ## License
 
